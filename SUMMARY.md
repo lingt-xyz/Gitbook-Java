@@ -14,6 +14,7 @@
 
 * [Variables](language-basics/variables/README.md)
   * [Primitive Data Types](language-basics/variables/primitive-data-types.md)
+  * [Array](language-basics/variables/array.md)
 
 ## Maven
 
