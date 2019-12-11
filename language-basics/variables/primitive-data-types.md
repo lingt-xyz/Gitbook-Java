@@ -16,11 +16,11 @@
   * In Java SE 8 and later, you can use the `long` data type to represent an unsigned 64-bit long, which has a minimum value of $$0$$ and a maximum value of $$2^{64}-1$$. The [`Long`](https://docs.oracle.com/javase/8/docs/api/java/lang/Long.html) class also contains methods like `compareUnsigned`, `divideUnsigned` etc to support arithmetic operations for unsigned long.
 * **float**: The `float` data type is a single-precision 32-bit IEEE 754 floating point. 
   * Its range of values is specified in the [Floating-Point Types, Formats, and Values](https://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.2.3) section of the Java Language Specification.
-  * This data type should never be used for precise values, such as currency. For that, you will need to use the [java.math.BigDecimal](https://docs.oracle.com/javase/8/docs/api/java/math/BigDecimal.html) class instead. [Numbers and Strings](https://docs.oracle.com/javase/tutorial/java/data/index.html) covers `BigDecimal` and other useful classes provided by the Java platform.
+  * This data type should _**never**_ be used for precise values, such as currency. For that, you will need to use the [java.math.BigDecimal](https://docs.oracle.com/javase/8/docs/api/java/math/BigDecimal.html) class instead.
 * **double**: The `double` data type is a double-precision 64-bit IEEE 754 floating point. 
   * Its range of values is specified in the [Floating-Point Types, Formats, and Values](https://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.2.3) section of the Java Language Specification. 
   * For decimal values, this data type is generally the default choice.
-  * This data type should never be used for precise values, such as currency.
+  * This data type should _**never**_ be used for precise values, such as currency.
 * **boolean**: The `boolean` data type has only two possible values: `true` and `false`.
   * This data type represents one bit of information, but its "size" isn't something that's precisely defined.
 * **char**: The `char` data type is a single 16-bit Unicode character. 
