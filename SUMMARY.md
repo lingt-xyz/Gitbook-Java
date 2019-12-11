@@ -17,6 +17,8 @@
   * [Array](language-basics/variables/array.md)
 * [Operators](language-basics/operators/README.md)
   * [Operation on bits](language-basics/operators/operation-on-bits.md)
+* [Control Flow](language-basics/control-flow/README.md)
+  * [switch](language-basics/control-flow/switch.md)
 
 ## Maven
 
