@@ -15,6 +15,8 @@
 * [Variables](language-basics/variables/README.md)
   * [Primitive Data Types](language-basics/variables/primitive-data-types.md)
   * [Array](language-basics/variables/array.md)
+* [Operators](language-basics/operators/README.md)
+  * [Operation on bits](language-basics/operators/operation-on-bits.md)
 
 ## Maven
 
