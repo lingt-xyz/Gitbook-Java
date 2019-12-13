@@ -10,7 +10,7 @@
 ## Initialize a project
 
 ```text
-% mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+$ mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 ```
 
 ### What Maven generated for you
@@ -94,7 +94,7 @@ This is a phase. A phase is a step in the [build lifecycle](https://maven.apache
 You may test the newly compiled and packaged JAR with the following command:
 
 ```bash
-java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App
+$ java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App
 ```
 
 ## **References**
