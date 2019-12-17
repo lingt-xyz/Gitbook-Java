@@ -33,8 +33,7 @@ do {
 ## for
 
 ```java
-for (initialization; termination;
-     increment) {
+for (initialization; termination; increment) {
     statement(s)
 }
 ```
