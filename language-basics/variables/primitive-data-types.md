@@ -24,6 +24,7 @@
 * **boolean**: The `boolean` data type has only two possible values: `true` and `false`.
   * This data type represents one bit of information, but its "size" isn't something that's precisely defined.
 * **char**: The `char` data type is a single 16-bit Unicode character. 
+  * $${16}^4=65536$$
   * It has a minimum value of `'\u0000'` \(or 0\) and a maximum value of `'\uffff'` \(or 65,535 inclusive\).
 
 ### String
