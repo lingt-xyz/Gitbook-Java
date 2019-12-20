@@ -1,14 +1,7 @@
 # Table of contents
 
 * [Links](README.md)
-
-## OOP Concepts
-
-* [Object](oop-concepts/object.md)
-* [Class](oop-concepts/class.md)
-* [Inheritance](oop-concepts/inheritance.md)
-* [Interface](oop-concepts/interface.md)
-* [Package](oop-concepts/package.md)
+* [OOP Concepts](oop-concepts.md)
 
 ## Language Basics
 
@@ -19,6 +12,10 @@
   * [Operation on bits](language-basics/operators/operation-on-bits.md)
 * [Control Flow](language-basics/control-flow/README.md)
   * [switch](language-basics/control-flow/switch.md)
+
+## Classes and Objects
+
+* [Untitled](classes-and-objects/untitled.md)
 
 ## Maven
 

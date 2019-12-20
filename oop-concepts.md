@@ -1,4 +1,6 @@
-# Object
+# OOP Concepts
+
+## Object
 
 An object:
 
@@ -18,5 +20,23 @@ Bundling code into individual software objects provides a number of benefits, in
 3. Code re-use: If an object already exists \(perhaps written by another software developer\), you can use that object in your program. This allows specialists to implement/test/debug complex, task-specific objects, which you can then trust to run in your own code.
 4. Pluggability and debugging ease: If a particular object turns out to be problematic, you can simply remove it from your application and plug in a different object as its replacement. This is analogous to fixing mechanical problems in the real world. If a bolt breaks, you replace it, not the entire machine.
 
-{% embed url="https://docs.oracle.com/javase/tutorial/java/concepts/object.html" %}
+## Class
+
+A class is the blueprint from which individual objects are created.
+
+## Inheritance
+
+Object-oriented programming allows classes to inherit commonly used state and behavior from other classes.
+
+## Interface
+
+In its most common form, an interface is a group of related methods with empty bodies.
+
+## Package
+
+A package is a namespace that organizes a set of related classes and interfaces. Conceptually you can think of packages as being similar to different folders on your computer.
+
+
+
+
 
