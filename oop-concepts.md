@@ -36,7 +36,5 @@ In its most common form, an interface is a group of related methods with empty b
 
 A package is a namespace that organizes a set of related classes and interfaces. Conceptually you can think of packages as being similar to different folders on your computer.
 
-
-
-
+{% embed url="https://docs.oracle.com/javase/tutorial/java/concepts/index.html" %}
 
