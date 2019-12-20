@@ -18,5 +18,12 @@ class MyClass {
 }
 ```
 
+## Example
+
+```java
+class Parent {
+}
+```
+
 
 
