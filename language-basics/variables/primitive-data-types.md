@@ -51,5 +51,5 @@ The Java programming language also provides special support for character string
 
 The compiler never assigns a default value to an uninitialized local variable. Accessing an uninitialized local variable will result in a compile-time error.
 
-[https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+{% embed url="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html" %}
 

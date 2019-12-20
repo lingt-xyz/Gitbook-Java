@@ -64,9 +64,7 @@ The `continue` statement skips the current iteration of a `for`, `while` , or `d
 
 The `return` statement exits from the current method, and control flow returns to where the method was invoked.
 
-
-
-[https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
+{% embed url="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html" %}
 
 
 

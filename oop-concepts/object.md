@@ -18,5 +18,5 @@ Bundling code into individual software objects provides a number of benefits, in
 3. Code re-use: If an object already exists \(perhaps written by another software developer\), you can use that object in your program. This allows specialists to implement/test/debug complex, task-specific objects, which you can then trust to run in your own code.
 4. Pluggability and debugging ease: If a particular object turns out to be problematic, you can simply remove it from your application and plug in a different object as its replacement. This is analogous to fixing mechanical problems in the real world. If a bolt breaks, you replace it, not the entire machine.
 
-[https://docs.oracle.com/javase/tutorial/java/concepts/object.html](https://docs.oracle.com/javase/tutorial/java/concepts/object.html)
+{% embed url="https://docs.oracle.com/javase/tutorial/java/concepts/object.html" %}
 

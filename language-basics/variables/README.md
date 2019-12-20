@@ -26,5 +26,5 @@ Variable names are case-sensitive.
 2. Use full words instead of cryptic abbreviations.
 3. If the name consists of only one word, spell that word in all lowercase. If it consists of more than one word, capitalize the first letter of each subsequent word. If it stores a constant value, capitalizing every letter and separating subsequent words with the underscore character.
 
-[https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
+{% embed url="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html" %}
 

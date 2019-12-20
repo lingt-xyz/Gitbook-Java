@@ -5,7 +5,7 @@ An array is a container object that holds a fixed number of values of a single t
 ## Declaration
 
 ```java
-// declares an array of integers
+// declare an array of integers
 int[] anArray;
 ```
 
@@ -78,5 +78,5 @@ class ArrayCopyOfDemo {
 }
 ```
 
-[https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+{% embed url="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html" %}
 
