@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Links](README.md)
-* [OOP Concepts](oop-concepts.md)
 
 ## Language Basics
 
+* [OOP Concepts](language-basics/oop-concepts.md)
 * [Variables](language-basics/variables/README.md)
   * [Primitive Data Types](language-basics/variables/primitive-data-types.md)
   * [Array](language-basics/variables/array.md)
