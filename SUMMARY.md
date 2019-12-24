@@ -19,6 +19,7 @@
   * [Member Variables](classes-and-objects/untitled/member-variables.md)
   * [Methods](classes-and-objects/untitled/methods.md)
   * [Constructors](classes-and-objects/untitled/constructors.md)
+  * [Passing Parameters](classes-and-objects/untitled/passing-parameters.md)
 
 ## Maven
 
