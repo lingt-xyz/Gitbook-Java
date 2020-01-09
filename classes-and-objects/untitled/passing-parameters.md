@@ -60,7 +60,7 @@ When you run this program, the output is:
 After invoking passMethod, x = 3
 ```
 
-### Passing Reference Data Type Arguments
+## Passing Reference Data Type Arguments
 
 Reference data type parameters, such as objects, are also passed into methods by **value**.
 
