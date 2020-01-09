@@ -1,7 +1,14 @@
 # Table of contents
 
 * [Links](README.md)
-* [OOP Concepts](oop-concepts.md)
+* [IDE](ide.md)
+* [JDK v.s. JRE](jdk-v.s.-jre/README.md)
+  * [Java SE v.s. Java EE](jdk-v.s.-jre/java-se-v.s.-java-ee.md)
+* [OOP Concepts](oop-concepts/README.md)
+  * [Inheritance](oop-concepts/inheritance.md)
+  * [Polymorphism](oop-concepts/polymorphism/README.md)
+    * [Method Override](oop-concepts/polymorphism/method-override.md)
+    * [Variable Hiding](oop-concepts/polymorphism/variable-hiding.md)
 
 ## Language Basics
 
