@@ -4,11 +4,7 @@
 * [IDE](ide.md)
 * [JDK v.s. JRE](jdk-v.s.-jre/README.md)
   * [Java SE v.s. Java EE](jdk-v.s.-jre/java-se-v.s.-java-ee.md)
-* [OOP Concepts](oop-concepts/README.md)
-  * [Inheritance](oop-concepts/inheritance.md)
-  * [Polymorphism](oop-concepts/polymorphism/README.md)
-    * [Method Override](oop-concepts/polymorphism/method-override.md)
-    * [Variable Hiding](oop-concepts/polymorphism/variable-hiding.md)
+* [OOP Concepts](oop-concepts.md)
 
 ## Language Basics
 
@@ -27,6 +23,10 @@
   * [Methods](classes-and-objects/untitled/methods.md)
   * [Constructors](classes-and-objects/untitled/constructors.md)
   * [Passing Parameters](classes-and-objects/untitled/passing-parameters.md)
+* [Inheritance](classes-and-objects/inheritance/README.md)
+  * [Polymorphism](classes-and-objects/inheritance/polymorphism/README.md)
+    * [Method Override](classes-and-objects/inheritance/polymorphism/method-override.md)
+    * [Variable Hiding](classes-and-objects/inheritance/polymorphism/variable-hiding.md)
 
 ## Maven
 
