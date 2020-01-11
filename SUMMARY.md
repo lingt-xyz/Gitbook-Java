@@ -7,8 +7,8 @@
 
 ## COMP 249
 
-* [COMP 248](comp-249/comp-248.md)
 * [IDE](comp-249/ide.md)
+* [COMP 248](comp-249/comp-248.md)
 
 ## Language Basics
 
