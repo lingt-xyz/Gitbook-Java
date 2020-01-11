@@ -1,16 +1,20 @@
+---
+description: 'Last update: Jan-09-2020'
+---
+
 # IDE
 
 This tutorial demonstrates how to use IDEs to write a Java program on ENCS lab computers. 
 
 ## Windows
 
-### 1⃣ Open Eclipse
+### 1 Open Eclipse
 
 > Windows &gt; eclipse\_OXYGEN
 
 ![](.gitbook/assets/windows_eclipse.png)
 
-### 2⃣ Create a Java project
+### 2 Create a Java project
 
 > File &gt; New &gt; Project
 
@@ -22,7 +26,7 @@ Name your project, e.g. :`Hello_World`. Then click _Finish_.
 
 ![](.gitbook/assets/windows_eclipse_project_java_create.png)
 
-### Perspective
+### 3 Perspective
 
 If you are prompted to choose a perspective, you can click _Open Perspective_.
 
@@ -36,7 +40,7 @@ After clicking you should see the following project we just created.
 
 ![](.gitbook/assets/windows_eclipse_project_java_show.png)
 
-### Create a Class
+### 4 Create a Class
 
 > src \(right click\) &gt; New &gt; Class
 
@@ -46,17 +50,17 @@ Name your class, e.g.: `Main`. Then click _Finish_.
 
 ![](.gitbook/assets/windows_eclipse_project_java_class_name.png)
 
-### The main method
+### 5 The main method
 
 Now we can write the main method in our newly created class.
 
 ![](.gitbook/assets/windows_eclipse_project_java_class_method.png)
 
-### Run
+### 6 Run
 
 ![](.gitbook/assets/windows_eclipse_project_java_run.png)
 
-### Hello World
+### 7 Hello World
 
 We can see the output of our program in the console.
 
@@ -64,7 +68,7 @@ We can see the output of our program in the console.
 
 ## Linux
 
-### Open Eclipse
+### 1 Open Eclipse
 
 > Applications &gt; Programming &gt; Eclipse Neon
 
@@ -74,7 +78,7 @@ You may see the following error, just click _OK_ to ignore it.
 
 ![](.gitbook/assets/linux_eclipse_startup_error.png)
 
-### Create a Java project
+### 2 Create a Java project
 
 > File &gt; New &gt; Project
 
@@ -90,7 +94,7 @@ After this step you should see the following view.
 
 ![](.gitbook/assets/linux_eclipse_perspective_show.png)
 
-### Create a Class
+### 3 Create a Class
 
 > src \(right click\) &gt; New &gt; Class
 
@@ -100,17 +104,17 @@ Name your class, e.g.: `Main`. The click _Finish_.
 
 ![](.gitbook/assets/linux_eclipse_java_class_name.png)
 
-### The main method
+### 4 The main method
 
 Now we can write the main method in our newly created class.
 
 ![](.gitbook/assets/linux_eclipse_java_class_method.png)
 
-### Run
+### 5 Run
 
 ![](.gitbook/assets/windows_eclipse_project_java_run.png)
 
-### Hello World
+### 6 Hello World
 
 We can see the output of our program in the console.
 
