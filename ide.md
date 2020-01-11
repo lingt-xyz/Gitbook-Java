@@ -4,13 +4,13 @@ This tutorial demonstrates how to use IDEs to write a Java program on ENCS lab c
 
 ## Windows
 
-### Open Eclipse
+### 1⃣ Open Eclipse
 
 > Windows &gt; eclipse\_OXYGEN
 
 ![](.gitbook/assets/windows_eclipse.png)
 
-### Create a Java project
+### 2⃣ Create a Java project
 
 > File &gt; New &gt; Project
 
