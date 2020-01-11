@@ -166,7 +166,7 @@ Because that is all the compiler knows.
 
 ## Constant Pool Tear Down
 
-Let read a few lines of Constant Pool.
+Let's read a few lines of Constant Pool.
 
 Because the first line of the code is `Parent o = new Child();`, it will call `super();` then it initialized itself.     
 
@@ -194,9 +194,9 @@ But polymorphism gives us a different result. Why?
 
 ### VTable
 
-If take C++ approach as JVM's implementation, we can safely assume for each object, there is a vtable corresponding to it.
+If take `C++` approach as JVM's implementation, we can safely assume for each object, there is a _VTable_ corresponding to it.
 
-When we declare `Parent o`, a vtable is created
+When we declare `Parent o`, a _VTable_ is created
 
 | Name | Reference |
 | :--- | :--- |
@@ -204,7 +204,7 @@ When we declare `Parent o`, a vtable is created
 | Object.something else | Object.something else |
 | Parent.print\(\) | Parent.print\(\) |
 
-When `o` was initialized to `Child`, `Parent.print()` is updated to `Child.print()`, resulting the vtable
+✍ When `o` was initialized to `Child`, `Parent.print()` would be **updated** to `Child.print()`, resulting the following _VTable_ :
 
 | Name | Reference |
 | :--- | :--- |
@@ -212,7 +212,7 @@ When `o` was initialized to `Child`, `Parent.print()` is updated to `Child.print
 | Object.something else | Object.something else |
 | Parent.print\(\) | **Child.print\(\)** |
 
-JVM will look up this vtable at run time to find `#4 Test$Parent.print` and would find that it's actually pointing to `Child.print()`. That's why it's called _running time binding_ or _dynamic binding_, or _late binding._
+JVM will look up this _VTable_ at running time to find `#4 Test$Parent.print` and would find that it's actually pointing to `Child.print()`. That's why it's called _running time binding_ or _dynamic binding_, or _late binding._
 
 ## Complete Output
 
