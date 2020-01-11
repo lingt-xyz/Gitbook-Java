@@ -1,10 +1,14 @@
 # Table of contents
 
 * [Links](README.md)
-* [IDE](ide.md)
 * [JDK v.s. JRE](jdk-v.s.-jre.md)
 * [Java SE v.s. Java EE](java-se-v.s.-java-ee.md)
 * [OOP Concepts](oop-concepts.md)
+
+## COMP 249
+
+* [COMP 248](comp-249/comp-248.md)
+* [IDE](comp-249/ide.md)
 
 ## Language Basics
 
