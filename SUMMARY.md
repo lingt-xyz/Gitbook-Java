@@ -18,11 +18,11 @@
 
 ## Classes and Objects
 
-* [Class](classes-and-objects/untitled/README.md)
-  * [Member Variables](classes-and-objects/untitled/member-variables.md)
-  * [Methods](classes-and-objects/untitled/methods.md)
-  * [Constructors](classes-and-objects/untitled/constructors.md)
-  * [Passing Parameters](classes-and-objects/untitled/passing-parameters.md)
+* [Class](classes-and-objects/class/README.md)
+  * [Member Variables](classes-and-objects/class/member-variables.md)
+  * [Methods](classes-and-objects/class/methods.md)
+  * [Constructors](classes-and-objects/class/constructors.md)
+  * [Passing Parameters](classes-and-objects/class/passing-parameters.md)
 * [Inheritance](classes-and-objects/inheritance/README.md)
   * [Polymorphism](classes-and-objects/inheritance/polymorphism/README.md)
     * [Method Override](classes-and-objects/inheritance/polymorphism/method-override.md)
