@@ -2,8 +2,8 @@
 
 * [Links](README.md)
 * [IDE](ide.md)
-* [JDK v.s. JRE](jdk-v.s.-jre/README.md)
-  * [Java SE v.s. Java EE](jdk-v.s.-jre/java-se-v.s.-java-ee.md)
+* [JDK v.s. JRE](jdk-v.s.-jre.md)
+* [Java SE v.s. Java EE](java-se-v.s.-java-ee.md)
 * [OOP Concepts](oop-concepts.md)
 
 ## Language Basics
