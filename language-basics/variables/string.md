@@ -31,7 +31,7 @@ It means:
 1. There is a pool, String literal pool, storing all the references to String literals.
 2. When a new String literal was created, the JVM will look for this String literal from the heap.
    1. If an equivalent String literal is found, the reference to the newly created String literal would be simply updated. \(That's why `==` would return `true`.\)
-   2. If not, this new String literal would be put on the heap and a reference would be added to the String literal pool. 
+   2. If not, this new String literal would be put on the heap and a reference would be added to the String literal pool.
 
 ### What about `new`
 
