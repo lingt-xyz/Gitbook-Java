@@ -37,7 +37,13 @@ It means:
 
 If `new` is used, the JVM is obliged to create a new String object. \(That's why `==` would return `false`.\)
 
+{% embed url="https://docs.oracle.com/javase/10/docs/api/java/lang/String.html\#intern\(\)" %}
+
+{% embed url="https://en.wikipedia.org/wiki/String\_interning" %}
+
+{% embed url="https://javaranch.com/journal/200409/ScjpTipLine-StringsLiterally.html" %}
 
 
-[https://docs.oracle.com/javase/10/docs/api/java/lang/String.html\#intern\(\)](https://docs.oracle.com/javase/10/docs/api/java/lang/String.html#intern%28%29)
+
+
 
