@@ -27,10 +27,6 @@
   * $${16}^4=65536$$
   * It has a minimum value of `'\u0000'` \(or 0\) and a maximum value of `'\uffff'` \(or 65,535 inclusive\).
 
-### String
-
-The Java programming language also provides special support for character strings via the [java.lang.String](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html) class. Enclosing your character string within double quotes will automatically create a new `String` object; for example, `String s = "this is a string";`. `String` objects are **immutable**, which means that once created, their values **cannot be changed**. The `String` class is not technically a primitive data type.
-
 ## Default Values
 
 ### Fields
