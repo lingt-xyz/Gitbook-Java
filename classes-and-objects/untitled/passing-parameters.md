@@ -65,7 +65,7 @@ After invoking passMethod, x = 3
 Reference data type parameters, such as objects, are also passed into methods by **value**.
 
 {% hint style="info" %}
-Recall that value is an address.
+Recall that value is an address. 🙋♂ 
 {% endhint %}
 
 ```java
