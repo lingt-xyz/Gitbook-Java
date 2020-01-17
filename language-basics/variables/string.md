@@ -28,10 +28,10 @@ true
 
 It means:
 
-1. There is a pool, String literal pool, storing all the references to String literals.
-2. When a new String literal was created, the JVM will look for this String literal from the heap.
+1. There is a pool, String literal pool, storing all String literals.
+2. When a new String literal was created, the JVM will look for this String literal from the String literal pool.
    1. If an equivalent String literal is found, the reference to the newly created String literal would be simply updated. \(That's why `==` would return `true`.\)
-   2. If not, this new String literal would be put on the heap and a reference would be added to the String literal pool.
+   2. If not, this new String literal would be added to the String literal pool and its reference would be returned.
 
 ### What about `new`
 
@@ -40,10 +40,6 @@ If `new` is used, the JVM is obliged to create a new String object. \(That's why
 {% embed url="https://docs.oracle.com/javase/10/docs/api/java/lang/String.html\#intern\(\)" %}
 
 {% embed url="https://en.wikipedia.org/wiki/String\_interning" %}
-
-{% embed url="https://javaranch.com/journal/200409/ScjpTipLine-StringsLiterally.html" %}
-
-
 
 
 
