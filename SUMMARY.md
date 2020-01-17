@@ -12,6 +12,7 @@
   * [Primitive Data Types](language-basics/variables/primitive-data-types.md)
   * [String](language-basics/variables/string.md)
   * [Array](language-basics/variables/array.md)
+  * [Constant Expressions](language-basics/variables/constant-expressions.md)
 * [Operators](language-basics/operators/README.md)
   * [Operation on bits](language-basics/operators/operation-on-bits.md)
 * [Control Flow](language-basics/control-flow/README.md)
