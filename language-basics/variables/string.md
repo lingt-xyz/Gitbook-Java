@@ -81,6 +81,9 @@ String s4 = new String("abc");
 
 String s5 = new String(s4);
 // one more String
+
+s5.intern();
+// now?
 ```
 
 ## Conclusion
