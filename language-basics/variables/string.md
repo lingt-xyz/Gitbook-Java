@@ -71,8 +71,16 @@ true true true true false true
 ```java
 String s1 = "abc";
 String s2 = "abc";
+// two Strings
 
 String s3 = new String("def");
+// tow more Strings
+
+String s4 = new String("abc");
+// one more String
+
+String s5 = new String(s4);
+// one more String
 ```
 
 ## Conclusion
