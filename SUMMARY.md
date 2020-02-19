@@ -29,6 +29,7 @@
   * [Polymorphism](classes-and-objects/inheritance/polymorphism/README.md)
     * [Method Override](classes-and-objects/inheritance/polymorphism/method-override.md)
     * [Variable Hiding](classes-and-objects/inheritance/polymorphism/variable-hiding.md)
+* [Exceptions](exceptions.md)
 
 ## Maven
 
