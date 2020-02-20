@@ -40,3 +40,9 @@ The class `Exception` and any subclasses that are not also subclasses of [`Runti
 
 `RuntimeException` and its subclasses are _**unchecked exceptions**_. Unchecked exceptions do _not_ need to be declared in a method or constructor's `throws` clause if they can be thrown by the execution of the method or constructor and propagate outside the method or constructor boundary.
 
+![https://www3.ntu.edu.sg/home/ehchua/programming/java/J5a\_ExceptionAssert.html](.gitbook/assets/exception_classes.png)
+
+## Overriding
+
+An overriding method cannot declare exception types that were not declared in its original. However, it may declare exception types are the same as, or subclass of its original. It needs not declare all the exceptions as its original. It can throw **fewer** exceptions than the original, **but not more**.
+
